@@ -597,7 +597,7 @@ body {
 .giant-letter {
   position: absolute;
   left: -230px;
-  bottom: -200px;
+  bottom: -340px;
   color: var(--orange);
   font-size: 1200px;
   font-weight: 700;
@@ -944,14 +944,14 @@ body {
 .comp-c {
   color: var(--white);
   font-size: 880px;
-  top: -290px;
+  top: -170px;
   left: 14px;
 }
 
 .comp-a {
   color: var(--dark);
   font-size: 650px;
-  bottom: 10px;
+  bottom: -55px;
   right: 48px;
 }
 
