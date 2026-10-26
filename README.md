@@ -4,7 +4,7 @@
 
 ## Ссылка на сайт
 
-[https://ваш-логин.github.io/название-репозитория/]
+[https://github.com/kassssssars-create/GERBERA]
 
 ## Скриншот
 
